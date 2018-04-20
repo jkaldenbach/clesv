@@ -1,0 +1,27 @@
+{
+  "name": "clisv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "eslintConfig": {
+    "parserOptions": {
+      "ecmaVersion": 7
+    },
+    "env": {
+      "es6": true,
+      "es7": true
+    }
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "blessed": "^0.1.81",
+    "hermit": "^0.2.2",
+    "jsdom": "^11.8.0"
+  }
+}
