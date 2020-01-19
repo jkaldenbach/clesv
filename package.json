@@ -20,7 +20,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "blessed": "^0.1.81",
     "current-week-number": "^1.0.7",
     "hermit": "^0.2.2",
