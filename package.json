@@ -24,6 +24,6 @@
     "blessed": "^0.1.81",
     "current-week-number": "^1.0.7",
     "hermit": "^0.2.2",
-    "jsdom": "^11.8.0"
+    "jsdom": "^16.5.0"
   }
 }
